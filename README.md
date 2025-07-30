@@ -1,6 +1,6 @@
-# GraphRAG Knowledge Graph for Insurance Advisor Data
+# GraphRAG Knowledge Graph 
 
-This repository uses **GraphRAG** to build a knowledge graph on insurance advisor and submission data. It ingests structured JSON, extracts entities & relationships, and enables semantic queries and graph visualizations.
+This repository uses **GraphRAG** to build a knowledge graph which ingests structured JSON, extracts entities & relationships, and enables semantic queries and graph visualizations.
 
 ---
 
