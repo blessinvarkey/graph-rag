@@ -39,9 +39,6 @@ gragtest/settings.yaml
 
 # GraphRAG outputs
 
-output/
-cache/
-logs/
 
 # IDEs and editors
 
