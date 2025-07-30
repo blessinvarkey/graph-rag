@@ -1,0 +1,13 @@
+id,human_readable_id,community,level,parent,children,title,entity_ids,relationship_ids,text_unit_ids,period,size
+269b1d28-9d13-4170-b63e-651ac2c8a04c,0,0,0,-1,[],Community 0,"['9a65d90f-2bf5-4155-909c-a0c0a7dc6e2f'
+ 'd78cde2d-2ac3-44ec-8c6f-db9454d22ab3'
+ '2270dbd1-815d-4f37-94eb-334d0ada2418'
+ 'c64db24d-8173-4b11-8259-ad6eade9deee'
+ 'df02f594-205d-454d-a1f1-ca64e65ffe6a'
+ '61afc6ad-6d48-452e-b2b9-f749d4066e32'
+ 'ec6b8a3b-5890-4408-8fe3-d8a3788e8aff']","['09c6877a-44ef-4bfe-8947-0f3f00a5cde8'
+ '53b90bc5-b21a-419f-a18d-e9f1d628e193'
+ '58c4e9af-4039-41d9-9906-523ea17f45c6'
+ 'a255ea79-2044-48b2-ba24-b8ff2d423349'
+ 'a71c5539-0ea5-49a4-8719-47602b4ea825'
+ 'a94a3073-a553-45fa-a434-183768737a5f']",['a7dd7e14062cd52735f8f3b209bff150147e65accfc11f8ff56002ecb64deeb78fbbcca64e906643927eb05e366d8738695fa3cbedeca1ad1df8b40e352b4749'],2025-07-30,7
