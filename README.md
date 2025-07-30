@@ -111,11 +111,3 @@ This repository uses **GraphRAG** to build a knowledge graph which ingests struc
 
 ---
 
-## 🎨 Customization
-
-- **Few‑shot SQL**: Add `few_shot.sql.txt` in `input/`, update `prompts/sql_generation_prompt.txt` and rerun indexing.
-- **Prompt tuning**: Modify files under `prompts/` for different RAG workflows.
-- **Vector store**: Swap `lancedb` for your preferred vector DB in `settings.yaml`.
-
----
-
