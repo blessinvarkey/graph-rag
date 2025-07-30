@@ -1,0 +1,18 @@
+[
+    {
+      "id": "ex1",
+      "question": "List all advisors from the West region.",
+      "sql": "SELECT AdvisorName FROM AdvisorMapping WHERE Region = 'West';"
+    },
+    {
+      "id": "ex2",
+      "question": "Count how many advisors are in each region.",
+      "sql": "SELECT Region, COUNT(*) AS AdvisorCount FROM AdvisorMapping GROUP BY Region;"
+    },
+    {
+      "id": "ex3",
+      "question": "Get the OfficeCode for advisor Jane Doe.",
+      "sql": "SELECT OfficeCode FROM AdvisorMapping WHERE AdvisorName = 'Jane Doe';"
+    }
+  ]
+  
